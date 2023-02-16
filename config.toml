@@ -1,0 +1,4 @@
+baseURL = 'https://cybermoped.com/'
+languageCode = 'en-us'
+title = 'Cybermoped World'
+theme = "shell"
