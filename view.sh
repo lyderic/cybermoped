@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-hugo --i18n-warnings server --disableFastRender
+hugo-old --i18n-warnings server --disableFastRender
